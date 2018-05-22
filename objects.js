@@ -1,4 +1,4 @@
-const playlist = {};
+const playlist = { ozuna: 'Tu Foto'};
 
 function updatePlaylist(playlist, artist, song) {
   playlist[artist] = song;
